@@ -1,0 +1,5 @@
+[[Artifacts]]
+[[Enchantments]]
+[[Enchanted items]]
+[[Enchanted armor]]
+[[Enchanted weapons]]
